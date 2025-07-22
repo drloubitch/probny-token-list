@@ -1,0 +1,19 @@
+{
+  "name": "Probny Token List",
+  "timestamp": "2025-07-22T18:49:42.275475Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x40bC6B7A10587f30DeDBBc20FC5DBA396Ce469B2",
+      "name": "Probny",
+      "symbol": "PRB",
+      "decimals": 18,
+      "logoURI": "https://ipfs.io/ipfs/bafkreif5ocv7uagxodhym3ijx7yckj7lm2yn4pws3ai42tbfbvztwfurcq"
+    }
+  ]
+}
